@@ -7,3 +7,4 @@
 - ::before / ::after  and attr() for content
 - ::before/attr() used instead of dd/dt in left side
 - ::after in footer instead of "pipe"
+- no responsivnes, only flexbox action
